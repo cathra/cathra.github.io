@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: cathra@aliyun.com
 description: "关于移动开发相关技术。"
 keyword: "Cathra, 骄傲的猫, Cathra Blog, 博客, 个人网站, 互联网, 人工智能, 深度学习, 游戏, 产品, iOS, Android, iPhone, Apple"
-url: "https://cathra.github.io"              # your host, for absolute URL
+url: "http://cathra.biz"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
