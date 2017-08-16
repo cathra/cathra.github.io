@@ -9,9 +9,7 @@ tags:
 ---
 
 
-## 正文
-
-今天发现做的App中的UISearchBar中的光标不显示，网上找了一下解决办法如下：
+> 今天发现做的App中的UISearchBar中的光标不显示，网上找了一下解决办法如下：
 
 ``` ObjC
 	[searchBar setTintColor:[UIColor blueColor]];
