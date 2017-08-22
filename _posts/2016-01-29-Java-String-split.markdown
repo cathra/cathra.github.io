@@ -5,7 +5,8 @@ date: 2016-01-29 16:05:57
 author: "cathra"
 catalog: true
 tags:
-    - JAVA,JAVA开发小技巧
+    - JAVA
+    - JAVA开发小技巧
 ---
 
 

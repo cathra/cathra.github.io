@@ -2,11 +2,11 @@
 layout: post
 title: "iOS开发小技巧（六） -- UISearchBar 光标不显示的问题"
 date: 2017-05-05 15:38:19
-author: "cathor"
+author: "cathra"
 catalog: true
 tags:
     - iOS
-	- iOS开发小技巧
+    - iOS开发小技巧
 ---
 
 

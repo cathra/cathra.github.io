@@ -6,7 +6,7 @@ author: "cathra"
 catalog: true
 tags: 
     - iOS
-	- iOS开发小技巧
+    - iOS开发小技巧
 ---
 
 在iOS开发中，常常会用到需要缩放UIImage图片的情况，那么如何才能保证缩放图片的清晰度呢
