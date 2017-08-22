@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Java String.split()用法小结"
+title: "JAVA开发小技巧(一) -- Java String.split()用法小结"
 date: 2016-01-29 16:05:57
 author: "cathra"
 catalog: true
 tags:
-    - java
+    - JAVA,JAVA开发小技巧
 ---
 
 

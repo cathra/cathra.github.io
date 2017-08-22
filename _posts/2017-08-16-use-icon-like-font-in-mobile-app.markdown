@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "在移动APP中像使用字体一样使用图标"
+title: "iOS开发小技巧（七） -- 在移动APP中像使用字体一样使用图标"
 date: 2017-08-16 15:38:19
 author: "cathor"
 catalog: true
 tags:
-    - ios
-    - android
+    - iOS
+    - iOS开发小技巧
 ---
 
 

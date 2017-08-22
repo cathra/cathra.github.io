@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "在iOS系统中，如何正确缩放UIImage对象"
+title: "iOS开发小技巧（三） -- 在iOS系统中，如何正确缩放UIImage对象"
 date: 2016-03-18 10:13:36
 author: "cathra"
 catalog: true
 tags: 
-    - ios
+    - iOS
+	- iOS开发小技巧
 ---
 
 在iOS开发中，常常会用到需要缩放UIImage图片的情况，那么如何才能保证缩放图片的清晰度呢

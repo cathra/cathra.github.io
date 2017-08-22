@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "实现UISearchBar的Placeholder居左显示"
+title: "iOS开发小技巧（二） -- 实现UISearchBar的Placeholder居左显示"
 date: 2016-03-17 11:47:15
 author: "cathra"
 catalog: true
 tags:
-   - ios
+   - iOS
+   - iOS开发小技巧
 ---
 
 从ios7开始，ios系统UISearchBar组件显示Placeholder图标提示信息和放大镜都是居中的，而且没有相应的方法、属性对placeholder进行操作。本文提供一个UISearchBar的扩展，使placeholder的内容居左

@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "weakSelf/strongSelf在Block中的使用"
+title: "iOS开发小技巧（四） -- weakSelf/strongSelf在Block中的使用"
 date: 2016-11-01 10:13:36
 author: "cathra"
 catalog: true
 tags:
     - iOS
+	- iOS开发小技巧
 ---
 
 

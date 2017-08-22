@@ -5,6 +5,8 @@ date: 2016-01-07 17:24:35
 author: "cathra"
 catalog: true
 tags:
+    - iOS
+	- ObjC
     - 规范
 ---
 

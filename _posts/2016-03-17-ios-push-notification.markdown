@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "ios系统实现点击通知栏弹出窗体"
+title: "iOS开发小技巧（一） -- ios系统实现点击通知栏弹出窗体"
 date: 2016-03-17 10:38:28
 author: "cathra"
 catalog: true
 tags:
-    - ios
+    - iOS
+	- iOS开发小技巧
 ---
 
 Push Notification是ios系统中，后台主动向APP推送消息的重要手段。有时我们希望推送一个标题过来后，点击系统的推送栏，能够在APP中弹出一个ViewController显示消息相关的具体内容。本文将对不同情况下的消息推送处理进行介绍。

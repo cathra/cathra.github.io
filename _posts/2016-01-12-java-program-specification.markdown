@@ -5,7 +5,8 @@ date: 2016-01-12 14:27:43
 author: "cathra"
 catalog: true
 tags: 
-    - java
+    - JAVA
+	- 规范
 ---
 
 范围
