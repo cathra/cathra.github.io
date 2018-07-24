@@ -2,7 +2,7 @@
 layout: post
 title: "如何创建本地Git镜像仓库"
 date: 2017-08-23 15:02:19
-author: "cathra"
+author: "骄傲的猫"
 catalog: true
 tags:
     - Git

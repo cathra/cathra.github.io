@@ -2,7 +2,7 @@
 layout: post
 title: "使用SSH密钥连接Github"
 date: 2016-03-17 11:27:24
-author: "cathra"
+author: "骄傲的猫"
 catalog: true
 tags:
     - github
