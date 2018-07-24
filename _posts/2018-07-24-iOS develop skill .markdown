@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iOS开发小技巧"
+title: "iOS开发小技巧汇总"
 date: 2018-07-24 20:36:19
 author: "骄傲的猫"
 catalog: true
