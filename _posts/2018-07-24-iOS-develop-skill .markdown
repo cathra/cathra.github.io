@@ -2,7 +2,7 @@
 layout: post
 title: "iOS开发小技巧汇总"
 date: 2018-07-24 20:36:19
-author: "骄傲的猫"
+author: "比特怪兽"
 catalog: true
 tags:
     - iOS

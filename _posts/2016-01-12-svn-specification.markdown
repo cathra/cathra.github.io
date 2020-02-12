@@ -2,7 +2,7 @@
 layout: post
 title: "SVN代码版本管理规范"
 date: 2016-01-12 14:04:02
-author: "骄傲的猫"
+author: "比特怪兽"
 catalog: true
 tags: 
     - 规范

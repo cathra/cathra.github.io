@@ -2,7 +2,7 @@
 layout: post
 title: "Java 编程规范"
 date: 2016-01-12 14:27:43
-author: "骄傲的猫"
+author: "比特怪兽"
 catalog: true
 tags: 
     - JAVA

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "给软件行业新人的建议"
-author: "骄傲的猫"
+author: "比特怪兽"
 catalog: true
 tags:
     - 程序人生

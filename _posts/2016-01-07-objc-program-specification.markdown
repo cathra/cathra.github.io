@@ -2,7 +2,7 @@
 layout: post
 title: "Objective-C 编码规范"
 date: 2016-01-07 17:24:35
-author: "骄傲的猫"
+author: "比特怪兽"
 catalog: true
 tags:
     - iOS

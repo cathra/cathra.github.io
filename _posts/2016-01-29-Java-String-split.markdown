@@ -2,7 +2,7 @@
 layout: post
 title: "JAVA开发小技巧(一) -- Java String.split()用法小结"
 date: 2016-01-29 16:05:57
-author: "骄傲的猫"
+author: "比特怪兽"
 catalog: true
 tags:
     - JAVA
