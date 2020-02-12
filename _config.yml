@@ -1,10 +1,10 @@
 # Site settings
-title: 骄傲的猫
-SEOTitle: 骄傲的猫
+title: 比特怪兽
+SEOTitle: 比特怪兽
 header-img: img/home-bg.jpg
 email: cathra@aliyun.com
 description: "关于移动开发相关技术。"
-keyword: "Cathra, 骄傲的猫, Cathra Blog, 博客, 个人网站, 互联网, 人工智能, 深度学习, 游戏, 产品, iOS, Android, iPhone, Apple"
+keyword: "比特怪兽, 博客, 个人网站, 互联网, 人工智能, 深度学习, 游戏, 产品, iOS, Android, iPhone, Apple"
 url: "http://cathra.biz"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -12,12 +12,12 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: true
-weibo_username:     上海骄傲的猫
+# weibo_username:     
 zhihu_username:     cathra
 github_username:    cathra
 #twitter_username:  huxpro
 #facebook_username:  huxpro
-linkedin_username:  建华-顾-774a56a0
+
 
 
 
